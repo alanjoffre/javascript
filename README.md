@@ -1,2 +1,2 @@
 # linguagem-javascript
-Repositório com aprendizado e exercícios: JavaScript
+- Repositório com: artigos, aprendizados, exercícios e projetos.
